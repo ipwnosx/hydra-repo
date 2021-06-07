@@ -1,0 +1,85 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://i.ibb.co/bBnvdkt/Webp-net-compress-image.jpg",
+	"tintColor": "#334eff",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "VERSION_NUMBER",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "RELEASE_DATE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "PRICE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "GRIMxL0CK",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "HYDR4",
+					"action": "hydrarepo.cloud",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Use This Template",
+					"action": "hydrarepo.cloud",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "VERSION_NUMBER",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

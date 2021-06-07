@@ -1,0 +1,1128 @@
+Package: com.aussieappz.neon
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Lockscreen
+Maintainer: AussieAppz <info@aussieappz.com>
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Filename: ./debians/com.aussieappz.neon_1.3_iphoneos-arm.deb
+Size: 354384
+MD5sum: bdc5cbb6d138847882420e2b15b08355
+SHA1: d91fe0bfdc3c3f78eeb951d62706f787b5910d84
+SHA256: 886f980d4da89953508130322885f8cafc01e600fade4e16269a65e37e272fa6
+SHA512: 831d6c747319da2956b5e6f84c447fc011204cd1e1176dbfbf0d73260880f9850a6c8cc256a1433d5aa42f4466c2b2ff9e79a94aebb6849eab1b83e96abe7998
+Description: Brighten up your lock screen
+Name: Neon
+Author: AussieAppz <info@aussieappz.com>
+
+Package: com.aussieappz.thematrix
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Lockscreen
+Maintainer: AussieAppz <info@aussieappz.com>
+Depends: com.matchstic.xenhtml
+Filename: ./debians/com.aussieappz.thematrix_1.1_iphoneos-arm.deb
+Size: 693216
+MD5sum: a3bdf3f98b5c37989d42786920f04e3d
+SHA1: 356fde94b5f0f01ca89115bc463667d5ab33e40a
+SHA256: 95f8d1bbc4b33ca3b5f8c5e648fcc11d6438a0430b4dce55675b86f9f882400a
+SHA512: 5529195aa04151ada9f51781f1e37c4b597da81d38c1d487c3cb30e222bbbabb0a364cb5e5d2548d7055988197c726f82a8694cb622c255916abb6fb20b2ee77
+Description: The matrix has hacked your lock screen.
+Name: The Matrix
+Author: AussieAppz <info@aussieappz.com>
+
+Package: com.cannathea.afc2d-arm64
+Architecture: iphoneos-arm
+Version: 1.1.5-1
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 686
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debians/com.cannathea.afc2d-arm64_1.1.5-1_iphoneos-arm.deb
+Size: 14486
+MD5sum: c57f2a538b007e8f655ddcb3140804a1
+SHA1: 39ae9a6107ae67236ec5011530b08ef594248341
+SHA256: 488e4e86a97bdfcb12c396d14c9bc3e8666e810c5435023d7d8b530b5924e391
+SHA512: 3f6e98636a622bf41f76582af5fd78a65985e64a70b9cbb29040bbfff832dee0287c46641891f9f3d83464d43c373e6f1862ce966ebfd7d0f8a79d6dd4164b16
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
+Tag: purpose::daemon
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cannathea
+
+Package: com.daveapps.quickls
+Architecture: iphoneos-arm
+Version: 2.6.1
+Section: Tweaks
+Maintainer: Dave Van Wijk <vanwijkdave@gmail.com>
+Installed-Size: 972
+Depends: mobilesubstrate, applist, ws.hbang.common (>= 1.11), com.spark.libsparkcolourpicker
+Filename: ./debians/com.daveapps.quickls_2.6.1_iphoneos-arm.deb
+Size: 281840
+MD5sum: ae7ba90404684f26ff3bd6b85db51a5b
+SHA1: 0b007e0f35ea9d97c63959ca30f6373f0eab0e95
+SHA256: c2cfb0d43fcf8bb6b7116e85a9bbb30480f89ffabd9a2401fbc4303239efe8e3
+SHA512: a7eb799b848995558c4e9cdf77b326dfda5ab8d0b08ff6451f67a49b8298ec15a1f007e418bc0678fb933e4939c0ddf8ae0c2fa38be3e4bbb2c9b69ab1e8a8c4
+Description: Make your Lockscreen even more speedier!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios14.4
+Name: QuickLS
+Author: Dave Van Wijk <vanwijkdave@gmail.com>
+Depiction: https://repo.twickd.com/package/com.daveapps.quickls
+SileoDepiction: https://repo.twickd.com/package/com.daveapps.quickls/native
+
+Package: com.enter.Orion
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Widgets
+Maintainer: EnterApps
+Filename: ./debians/com.enter.orion_1.0.0_iphoneos-arm.deb
+Size: 169314
+MD5sum: 4cc132325045633e584403f3dde66c4c
+SHA1: 5a6df435b80d416137af4eea26607e78b46bcc1b
+SHA256: bb709b891657cdea82077d75ee8619b8ff5d77e95ee1a9ee753191f63eeb7544
+SHA512: 411dba361b005cb06c2853f68922ef319529274a686a935a21c52d9ad434cd91aa6f844971bbae69fa722d4d662068186d8e09faa6f02f503ba14b8a48d1e1d0
+Homepage: Time, weather, battery widget. Depends on XenInfo.
+Description: Time, weather, battery widget. Depends on XenInfo.
+Name: Orion
+Author: CodeOne88
+
+Package: com.hackyouriphone.localiapstore13
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: HYI - Tweaks
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate
+Filename: ./debians/com.hackyouriphone.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 3730
+MD5sum: 785763058cf6cc82240b7e2d1d51fb3c
+SHA1: e82aee2d837905cfbf89b4edbb9c00d2bcbecd1e
+SHA256: fb9a09fd2f260b0d1098895944737fcd0b41a512001299ca9703199ec7567a8a
+SHA512: 88bf05703c1cf3e31b9a8aa38c86a478ffb32f387a9b82325929bc60670d6d44a47ac1ae242ec4c6ceb865156e6202586b94dedda65d906da9196941b778e96f
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=localiapstore13
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID). No options to configure!
+Name: LocalIAPStore13
+Author: pxcex <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=localiapstore13
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=localiapstore13
+
+Package: com.hackyouriphone.localiapstore
+Architecture: iphoneos-arm
+Version: 1.4-4
+Section: HYI - Tweaks
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debians/com.hackyouriphone.localiapstore_1.4-4_iphoneos-arm.deb
+Size: 70412
+MD5sum: 1ffce38e32dc0baf377a5b0bbb83af11
+SHA1: 9d0e55b95784be48cde3d5c2c0c9409ee824eb53
+SHA256: 84f047ba6a781f0134c8ebe353f4033bf4e9ec650304379b7e234aba1511bafc
+SHA512: eda502160f60f9281e49f63d49852af9cee55d4f697171c4fe2d56702b33ba2eb9126edde80cb831317f162727bca2510bd576ee4ca172becf2005f6ef70ef24
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=localiapstore
+Description: Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
+Name: LocalIAPStore
+Author: anondev <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=localiapstore
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=localiapstore
+
+Package: com.leftyfl1p.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.6
+Section: Tweaks
+Maintainer: leftyfl1p
+Installed-Size: 1572
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debians/com.leftyfl1p.carbridge13_2.0.6_iphoneos-arm.deb
+Size: 292958
+MD5sum: 4c0e7cac7c0abe7b10e48f3222414ec8
+SHA1: 9d84a130844c871bdb2a3b9a2ce7f0cf06b4b463
+SHA256: 1fec33ac94cf6ace699da2fb084b31f03e9e95a7bc61ddafde329fd85b93101c
+SHA512: 0c43959fb4de89cc27f79048808c9a159e360539cc6401f028a85faab6ca74000393055961d2c279a8b71059e07ecf92956020f14d938b6f20b7f5f3c575b6e6
+Description: Open any app in CarPlay!
+Tag: cydia::commercial
+Name: CarBridge
+Author: leftyfl1p <carbridgetweak@gmail.com>
+Depiction: https://repo.packix.com/package/com.leftyfl1p.carbridge13/
+
+Package: com.mostafa89.ellanewage
+Architecture: iphoneos-arm
+Version: 1.0.8
+Section: Themes
+Maintainer: mostafa
+Filename: ./debians/com.mostafa89.ellanewage_1.0.8_iphoneos-arm.deb
+Size: 4146618
+MD5sum: bc7d4e6d742726e5915b31d29bd2723f
+SHA1: a9ab3a2ac07a0101be661d129ef4dc7a44825f3c
+SHA256: 19c8e668735a95490b373cf79b34b724d372bb561213e98a20e9d16d6316346f
+SHA512: 9acb6629f4fc8da287095dc020d9c4d47fd30ec70b6780bf7f576e3005d6eeb91afe3d666275edd0e4e3c9872ef61fa2d6cf5ccfbfef9977fb42b3b225c2d786
+Description: Prysm theme and respring logo and statusbar theme
+Name: Prysm NewAgeCC
+Author: mostafa
+Depiction: Prysm theme and respring logo and statusbar theme
+
+Package: com.p2kdev.floatingdockplus13
+Architecture: iphoneos-arm
+Version: 1.1.9
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 648
+Depends: firmware (>= 13.0),mobilesubstrate,preferenceloader,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock, com.imkpatil.floatingdockplus
+Filename: ./debians/com.p2kdev.floatingdockplus13_1.1.9_iphoneos-arm.deb
+Size: 85126
+MD5sum: 04876e465bb0ae954a1a9034cd7aac32
+SHA1: c93382becc0c672028d88e6e84bbe76ae56f39c0
+SHA256: 1268a34b9ee02a245ead2afd200bfedf0cf57048a96fe978e6f1c241d584a0cb
+SHA512: 0e62059cb297960883d9761ea46875d76aec256f8de5a1b9cc5d76ac234b71943a81980c7948a65a8a9c379cd256e5e47110f286b07bfda82956c8d59ae7a951
+Description: Use your Dock like a PRO!
+Name: FloatingDockPlus 13/14
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/Application Support/FloatingDockPlus13/icon.png
+
+Package: com.peterdev.libpddokdo
+Architecture: iphoneos-arm
+Version: 1.3
+Section: System
+Maintainer: Soongyu Kwon
+Installed-Size: 164
+Filename: ./debians/com.peterdev.libpddokdo_1.3_iphoneos-arm.deb
+Size: 6718
+MD5sum: 9eab42650b671fadd0ee909bb617c928
+SHA1: 0e40e1a0b90494c6a25ca0c904be661034ca9ac9
+SHA256: 4887b550b35e322a040d51fb8ecf28fb074af4c4f73ba433bc8da90b2a94a4d5
+SHA512: 53b021f9c2271e3a5cc25f384d1c631d8b6b54b423547d81e8cbb3de804c2017c8a2dd4578ec9f21c7b685d37e559f958c18db481d329d36f0a6ae8ebb7f12b9
+Description: An awesome library to get current weather which provides by iOS Weater.app easily.
+Tag: role::developer
+Name: libPDDokdo
+Author: Soongyu Kwon
+
+Package: com.polytweaks.aerial2
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: PolyTweaks
+Installed-Size: 5172
+Depends: mobilesubstrate
+Filename: ./debians/com.polytweaks.aerial2_1.0.3_iphoneos-arm.deb
+Size: 81404
+MD5sum: 65cab20675d59c620ad6fd1801ecf2b5
+SHA1: 8406dab1a9ae8b6dfd2bf772303e4cc55975a77b
+SHA256: 9e556ff03505688fbf1a9bf51290095625715927d7a477357d02983a3faf4593
+SHA512: 853c0bdbb63acc1b46e31d6b7f76ab9088c2dfd9bad67af2899872766bc13c8c8f7aa4f30befa078d0fd5ade5b525d18aa418ceb299e6578d66f2e8b33d33fba
+Description: An awesome MobileSubstrate tweak!
+Name: Aerial 2
+Author: PolyTweaks
+
+Package: com.revulate.harmony
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Tweak
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 924
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./debians/com.revulate.harmony_2.0.3_iphoneos-arm.deb
+Size: 222190
+MD5sum: 00b7471ef222271f33be68facc34e18d
+SHA1: c99559d63c06557afe07f73860743b7efa932eaf
+SHA256: 082d8118f1f24dc6042556ec25f3966776f19a8b652ea9887d144cb5c53dcea9
+SHA512: 5f5088423ec836c7e06b498f6c13fbff5578737f86b74a9dd954df346367f5ad2e7d3ad125642f99ef973ce2c4214dfb90a0e37e90291824ed42d69ff1464b03
+Description: A personalized touch for Discord!
+Name: Harmony
+Author: Revulate <revulate1@gmail.com>
+
+Package: com.twickd.dave-van-wijk.ainsworth
+Architecture: iphoneos-arm
+Version: 1.4.0.4
+Section: Tweaks
+Maintainer: Dave Van Wijk <vanwijkdave@gmail.com>
+Installed-Size: 1220
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, ws.hbang.common (>= 1.11), com.muirey03.libimagepicker, com.spark.libsparkcolourpicker
+Filename: ./debians/com.twickd.dave-van-wijk.ainsworth_1.4.0.4_iphoneos-arm.deb
+Size: 389580
+MD5sum: 1a39be43183b5b4f2d2dd5e7d5e91480
+SHA1: c7dc5174ddb0f5277640f40a59b5e48479a3a7d8
+SHA256: f55e286549d66a3e96023718cc4dc5aa5fdde7991d7b001cc8012820e3080c33
+SHA512: 765c376a127419dd648493d5876d46f80bbdab3c1080624c80b3d6c554dd6b593b97f550ed5ac281d519f175be3de4cb55600c097ea6acf35d97c2b8aac0ed10
+Description: The Connecting Experience You Deserve!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios14.2
+Name: Ainsworth
+Icon: https://daveapps.nl/tweaks/icon_ainsworth_site.png
+Author: Dave Van Wijk <vanwijkdave@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.dave-van-wijk.ainsworth
+SileoDepiction: https://repo.twickd.com/package/com.twickd.dave-van-wijk.ainsworth/native
+
+Package: com.twickd.devy-design.araya-status-bar
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Conflicts: com.yourepo.martdalazuardi.araya
+Filename: ./debians/com.twickd.devy-design.araya-status-bar_1.1.1_iphoneos-arm.deb
+Size: 235516
+MD5sum: b789834cf688d20f5e35339e6a7343eb
+SHA1: 1ec2da1919edf681ba904b6ad1871b4184f9a7db
+SHA256: d2c8fe8aa5de362e93c22224607e32b26e9d15ea0d80027faa71d8c56ca9109f
+SHA512: 47840cd9d97730f90d6826890e63218d597650ddf462a4a0ff6acc30165a4117ba43f1351557c0843cbe74a0d489c37cec144fbd0f7f504755a1e1a029e00b40
+Description: imagination turned into Design.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
+Name: Araya Status Bar
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.araya-status-bar
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.araya-status-bar/native
+
+Package: com.twickd.devy-design.clay-cc
+Architecture: iphoneos-arm
+Version: 1.4.7
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Conflicts: com.devy-design.prysmarccc
+Filename: ./debians/com.twickd.devy-design.clay-cc_1.4.7_iphoneos-arm.deb
+Size: 1519556
+MD5sum: af14cccf15b10bf585cc446736b35211
+SHA1: da7e6fc9dcafa4dbcc423e68a9f83c3e6547b572
+SHA256: 920f079e0aa23e76620dc36775c2c224edcfe13fa62ce3f8f7b1f815fbc22f71
+SHA512: a9d5303befe4259772ce1b233b5a6862e8ae44517ff224096e6ec632b50d1734567d2f76fe6410ba15c363db898f8e7a67805408a7da0750c9f65f847b7f5eca
+Description: A Complete Premium Set of icons for your Prysm & Apple's Control Center.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
+Name: Clay CC
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.clay-cc
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.clay-cc/native
+
+Package: com.twickd.devy-design.clay-ui
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Filename: ./debians/com.twickd.devy-design.clay-ui_1.1.4_iphoneos-arm.deb
+Size: 2265304
+MD5sum: a76baadf4a76f47a6bc031b73e6958ed
+SHA1: f0fd6481fb6e46815f24d7059f57537263c9f6e9
+SHA256: 6bec0a8d94da857d51c0bf4ea28ce62c431b12519b39aa1bf58faa31b6d2f158
+SHA512: dd371710c1e21ddee7eb56612422a061394b71b7c4c20fc3d250de74dbbfdf9250afc88dd83fa7df31cd09610698ee7891e3020c84f8eeebb045ba19ae09c5ae
+Description: Modern, Unique & Bold Look for your iPhone.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
+Name: Clay UI
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.clay-ui
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.clay-ui/native
+
+Package: com.twickd.devy-design.descent-status-bar
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Filename: ./debians/com.twickd.devy-design.descent-status-bar_1.1.7_iphoneos-arm.deb
+Size: 494436
+MD5sum: ebf0635b6d88dae81b50cf1e074fc51e
+SHA1: b8271081b1945eb11564a4dcec0059a53bdcb3f8
+SHA256: 1a65c502deef226493eaa4214492d95b43fa7b1cb7e49d0c80c6db009a743b64
+SHA512: 26b99c66474919eb2c4082fbf176e99a5b9b513e60fe8ae9fd0286abc3d0a2dea1bad7bddf3aaefd413508ada53b564266d1756566983b044ba5902edd5bd915
+Description: Bold standard of your device.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
+Name: Descent Status Bar
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-status-bar
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-status-bar/native
+
+Package: com.twickd.devy-design.descent-ui
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Filename: ./debians/com.twickd.devy-design.descent-ui_1.3.2_iphoneos-arm.deb
+Size: 1306596
+MD5sum: 4cf4c7a629f30f7acd858ce1d6fa1f0b
+SHA1: eadd583ab646323a2364e85c730712d9cae69ed9
+SHA256: c5d22869a9070e940295aa2dcbb099c640b5b130a335c890a28d919148fa37ed
+SHA512: cbd30ad9680d041b881c654bddbcb5356a351c962a5dbe1dd43aa8e52d53ea52229f00487803d6f089d4f1e87fecd79fce0beb735285ad55e9be8166f424a718
+Description: Set Mood with Fresh UI.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
+Name: Descent UI
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-ui
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.descent-ui/native
+
+Package: com.twickd.devy-design.liaca-pitch-black
+Architecture: iphoneos-arm
+Version: 3.1.5
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Filename: ./debians/com.twickd.devy-design.liaca-pitch-black_3.1.5_iphoneos-arm.deb
+Size: 7439504
+MD5sum: 7d5724fc8d41b7d31ddedae7a72a8704
+SHA1: a7ab5f82050c7fa87224909fe361ac7eb2597fea
+SHA256: d75512ceae99ac892b99842f332a956d0173696c5f858b1279d6181d878b93d8
+SHA512: 517adebffe67d0978154e8592ad73f3ae61181f06af988aab4efa1ad4367c1e3cb974e5d92a5f00db3f1662d3072cd56895bfbdf13ebee76c2aa9696671db0a8
+Description: Modern, Colourful & Carefully Redesign for Oled Devices & Black Lovers.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
+Name: Liaca Pitch Black
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.liaca-pitch-black
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.liaca-pitch-black/native
+
+Package: com.twickd.devy-design.pop-status-bar
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Filename: ./debians/com.twickd.devy-design.pop-status-bar_1.2.2_iphoneos-arm.deb
+Size: 1216348
+MD5sum: d0370281733259b3516c72a73e9af03d
+SHA1: 3e36a3f018e241ea0fe87c9e2e42a091aa3da0bc
+SHA256: b9cdfc907f6c091b80894f3fd89aacbb9ee54b3f4edb75669eeeb7098a8da01d
+SHA512: fd2302da1d6f2159391602120b9ae348c44ba0404ff1fde0a85b13ccb9e781b90f1fd74dfcc499776dd2cabc1913d3f9fd926e4462f026cbe9028d1c2c74592f
+Description: Feel the status bar like never before.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.4
+Name: Pop Status Bar
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.pop-status-bar
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.pop-status-bar/native
+
+Package: com.twickd.devy-design.ratna-ui
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Themes
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Conflicts: com.yourepo.martdalazuardi.ratnaui
+Filename: ./debians/com.twickd.devy-design.ratna-ui_1.1_iphoneos-arm.deb
+Size: 527572
+MD5sum: 5359bbcffdedc1b5fc3c6c3fc7641001
+SHA1: 9271dd309364c229f469984f93375d0906e8dd76
+SHA256: 4140be0a5bf904cd403bedb639499c70f1490ac0b96b038cbb175dbaa257baff
+SHA512: a624895113049a8bac9d8596da5ff4b463406e73b6ed7f1f55d0cfc868297ce50ef097a5b5f9b2fe8eb3a4e4bfde98f32304ad6a5a35f7f4dd013f79dd4c09b2
+Description: Handcrafted Bold UI for Your Device.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
+Name: Ratna UI
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.devy-design.ratna-ui
+SileoDepiction: https://repo.twickd.com/package/com.twickd.devy-design.ratna-ui/native
+
+Package: com.twickd.dylan-west.airpay
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Installed-Size: 808
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.14)
+Filename: ./debians/com.twickd.dylan-west.airpay_1.0_iphoneos-arm.deb
+Size: 424004
+MD5sum: 24bec04d0f511ef1ebf7f4711db7cc55
+SHA1: 929967e0c7ca6eeba53029f067f417503ca38245
+SHA256: a98223e072b5196a30a72474da4be8c74f0bceac30dcac1be0421372f2081173
+SHA512: bcc8376d50934ff5fd54adfd7dbd90bc358db956549f076fc65bfc6bf05c02b37de975df50ad4f8a95d2a67fd634bd578fac4b3ac0cd90f88aad1288834d92b4
+Description: Reimagined your Apple Pay
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
+Name: AirPay
+Author: Dylan West <iosthemem0d@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.dylan-west.airpay
+SileoDepiction: https://repo.twickd.com/package/com.twickd.dylan-west.airpay/native
+
+Package: com.twickd.dylan-west.colorful
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Installed-Size: 3220
+Depends: mobilesubstrate, applist, ws.hbang.alderis, ws.hbang.common (>= 1.14)
+Filename: ./debians/com.twickd.dylan-west.colorful_1.0_iphoneos-arm.deb
+Size: 2271624
+MD5sum: f3a238da15870bacd7436cc600312e1d
+SHA1: 606f248fddf5567ffa776a32a417a9593f4edf37
+SHA256: 759d621739e792fa783be4d8971bd6fc312f6c354f43962e1401e1589fca5e63
+SHA512: e50f2a406d413d6200233618276edcc2d1037e821529a207350ade575de6e663267cd96a527c9424ea2c63fe4cdec1d80da17251bd8d3967de87670f9afb8a09
+Description: Color iOS system-wide
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.6
+Name: Colorful
+Author: Dylan West <iosthemem0d@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.dylan-west.colorful
+SileoDepiction: https://repo.twickd.com/package/com.twickd.dylan-west.colorful/native
+
+Package: com.twickd.dylan-west.coolkeypad
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11)
+Filename: ./debians/com.twickd.dylan-west.coolkeypad_1.0.4_iphoneos-arm.deb
+Size: 8838204
+MD5sum: f8929b81aeb5326b70e2622a9025f7c3
+SHA1: 08d01a3fc8ea59856caedacf230b8e8b4487d33b
+SHA256: 3d25ee6d3799c443531de2dab6aacee3d51cb62204868a9cd1c3043966e2310e
+SHA512: e41022df22069cda432c4c3552a402debd421889c8a2fbe894199b048e6f10908a506a913856d68abdc66965d13435279078d7b77516522e697fe314d8215efe
+Description: CoolKeypad
+Tag: purpose::extension, cydia::commercial, compatible_min::ios12.2, compatible_max::ios13.3
+Name: CoolKeypad
+Depiction: https://repo.twickd.com/package/com.twickd.dylan-west.coolkeypad
+SileoDepiction: https://repo.twickd.com/package/com.twickd.dylan-west.coolkeypad/native
+Author: Dylan West <iosthemem0d@gmail.com>
+
+Package: com.twickd.dylan-west.gradients
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debians/com.twickd.dylan-west.gradients_1.0_iphoneos-arm.deb
+Size: 38858664
+MD5sum: 7892dc9dad887a563faa8aff53a67378
+SHA1: b21b04d1b4db8b85310254bdaf79039cc6a700a8
+SHA256: 68c78d83aa7feb56060a1fe3a55ca486a2578d95eda8b507c4df97e919fcdce3
+SHA512: 20b7ea953467f6646ca61da2b0f1bd8e0577a72deedc78dd451f08db0da3b46613bdb5bf229bda879953d45e58fea7def8b36141b38e0257bfdaed400fbc952a
+Description: Sleek Icon Themes.
+Name: Gradients
+Author: Dylan West <iosthemem0d@gmail.com>
+
+Package: com.twickd.dylan-west.metallic
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debians/com.twickd.dylan-west.metallic_1.0_iphoneos-arm.deb
+Size: 69930828
+MD5sum: fcc6e76c5f2e57218b5607736cd79885
+SHA1: fa4436d2b76e6a258527e236b792012ce30d56e5
+SHA256: dd83d434051e1d23358ff1c2467201aaa0746d8fe1c4dd0c1f094f98b05ffc91
+SHA512: af6db35bff6804d7cb9bb9bebd9746ddad048849d2bfd8d818cdc9e9ec2cca6a73d8ce48b7bb6699c0f5ff186a7b6940ca54d6f7f5bfe1e3ef7651b9981a78e2
+Description: Sleek Icon Themes.
+Name: Metallic
+Author: Dylan West <iosthemem0d@gmail.com>
+
+Package: com.twickd.dylan-west.mycards
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Themes
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debians/com.twickd.dylan-west.mycards_1.0.2_iphoneos-arm.deb
+Size: 92777424
+MD5sum: bbc5831b5621a1bbd625d6c82e013efa
+SHA1: 6dcc695b51b53cff292e41fa43b7e4bb3f3ab407
+SHA256: e707db693a5f70cd92fe73e345726448455e33e62386e6fbee74c618e39e4129
+SHA512: 0077f26d20a6531848540d58199d1d8cca811e31263a6da61937f5d73b7640029e90b42dcb7a6b917aa0fb85349876413ab943cbe905c77238583e88c49a1ff2
+Description: An awesome custom apple pay cards.
+Name: mycards
+Author: Dylan West <iosthemem0d@gmail.com>
+
+Package: com.twickd.dylan-west.mywall
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Dylan West <iosthemem0d@gmail.com>
+Installed-Size: 2232
+Depends: mobilesubstrate, com.muirey03.libimagepicker, ws.hbang.common (>= 1.14), applist
+Filename: ./debians/com.twickd.dylan-west.mywall_1.1_iphoneos-arm.deb
+Size: 1841748
+MD5sum: 8c9d6a6d42c4442793455e038b392562
+SHA1: 295bb8d3be5ae70bd99abaabff74d22d94a0da7e
+SHA256: d75e48763ffc235d0430113c8eca80a6883f75c459716bbcb7fb2732ff36a012
+SHA512: f0b0958b783402f7cef342d23bb538d477ad485fcd8152dc9ba4432e9cae74d26754acbc46cecff810042046e0af0c4f1a41a2625a40ddc9f8e3411fa9549981
+Description: Custom background images system-wide
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.5
+Name: MyWall
+Author: Dylan West <iosthemem0d@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.dylan-west.mywall
+SileoDepiction: https://repo.twickd.com/package/com.twickd.dylan-west.mywall/native
+
+Package: com.twickd.ethan-whited.ability
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Ethan Whited <ethanwhited2208@gmail.com>
+Installed-Size: 428
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/com.twickd.ethan-whited.ability_1.1_iphoneos-arm.deb
+Size: 136752
+MD5sum: ee90083781abc12c0d4bbd5d80fac8bd
+SHA1: 187493d36ba7d63f00eccee7fe9344b1476aa98c
+SHA256: 040f97837a6aa5a32066cf00da376b9615c30b3ef0d501f742b56648c3759408
+SHA512: 8439b002082d4ae49dd70644a4df95c45621f7f45755d3ba7867c0453be050bddd391cccdf72882f7b097dee51810dd2ad5753ce7ea6f52a2ff8827eb24d22eb
+Description: Customize your Reachability Window!
+Tag: compatible_min::ios10.0, compatible_max::ios13.3
+Name: Ability
+Author: Ethan Whited <ethanwhited2208@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.ethan-whited.ability
+SileoDepiction: https://repo.twickd.com/package/com.twickd.ethan-whited.ability/native
+
+Package: com.twickd.ethan-whited.dopeconvos
+Architecture: iphoneos-arm
+Version: 4.6
+Section: Tweaks
+Maintainer: Ethan Whited <ethanwhited2208@gmail.com>
+Installed-Size: 36164
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker
+Filename: ./debians/com.twickd.ethan-whited.dopeconvos_4.6_iphoneos-arm.deb
+Size: 20480740
+MD5sum: 54050903287344560c805bb485111a43
+SHA1: b29dd57ad1af3728cc22f8fbfe43dda8412b44ed
+SHA256: cf7394427901b4db3a91031ab0066fcb762f29184a30b19a2d898bf0104f2c22
+SHA512: 16f526fed7317452c62408b58b44f7ef1704112b73c373703b12aa5cb698bd267e57a6d47b6614d871f432fbcc495de1fddade502f047223d1e99334123bf493
+Description: Make your Messages app Dope!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios14.4
+Name: DopeConvos
+Author: Ethan Whited <ethanwhited2208@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.ethan-whited.dopeconvos
+SileoDepiction: https://repo.twickd.com/package/com.twickd.ethan-whited.dopeconvos/native
+
+Package: com.twickd.fuzum.boncy-theme
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Themes
+Maintainer: Fuzum <Crescent1992@gmail.com>
+Depends:
+Filename: ./debians/com.twickd.fuzum.boncy-theme_1.4_iphoneos-arm.deb
+Size: 16128216
+MD5sum: 031535cd7b39a4e08b1941ca494e104c
+SHA1: d6221abd591e4179f53f7f8131a815e92e51c604
+SHA256: 5c01c14e94a3e0ac973c22e7ec4083c693a2b3db04c004633bfce3f07bdb7f0a
+SHA512: 62b81d27fa1d69f1046742200c30abde4e4e2574ad21c9b5dae263c527001baabec8bf938d20ffd8d6a8b9dfe835711d7f20e84900b82fe2ea546344b11d7312
+Description: Vibrant colorful theme
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.2
+Name: boncy Theme
+Author: Fuzum <Crescent1992@gmail.com>
+Icon: file:///Library/PreferenceBundles/boncy.bundle/icon@2x.png
+Depiction: https://repo.twickd.com/package/com.twickd.fuzum.boncy-theme
+SileoDepiction: https://repo.twickd.com/package/com.twickd.fuzum.boncy-theme/native
+
+Package: com.twickd.hunt3r1206.prysm-starscc
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Hunt3r1206 <hunterp1206@protonmail.com>
+Filename: ./debians/com.twickd.hunt3r1206.prysm-starscc_1.0.0_iphoneos-arm.deb
+Size: 120840
+MD5sum: 3bf649a4d54134de07b07ad7ed043dbc
+SHA1: 09f41b36e8a715f1bbf30c0219534d38169bbc56
+SHA256: dc31e9db086f2a55b1480b538fe7ca7fae29eeaca22f607c5a4a5c9354619ec3
+SHA512: 1b2b7174201da7cef249039739683f5ccc89cb54eef0126a53a55f78e0b934e4e2d345e3c4684337a1ca2ca24890569c3a705f2ae18130370b06e7cca5f132d3
+Homepage:
+Description: A Star Wars Theme for Prysm
+Tag: compatible_min::ios13.0, compatible_max::ios13.4
+Name: Prysm StarsCC
+Depiction: https://repo.twickd.com/package/com.twickd.hunt3r1206.prysm-starscc
+Author: Hunt3r1206 <hunterp1206@protonmail.com>
+SileoDepiction: https://repo.twickd.com/package/com.twickd.hunt3r1206.prysm-starscc/native
+
+Package: com.twickd.j3nra1n.dark-matter
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Themes
+Maintainer: J3nRa1n <tiffgu3.0@gmail.com>
+Filename: ./debians/com.twickd.j3nra1n.dark-matter_2.1_iphoneos-arm.deb
+Size: 5767000
+MD5sum: ff2fffad98d7830dc6adacbd1602019f
+SHA1: 02697ac6cb7a8301c80d0fa271a2404b9e48eb20
+SHA256: 512f8f2b7283fd4cde1861e59b57511885ef9f327b91cfde65662dd264b9b9f1
+SHA512: b506201124456a39b9b4efdcaf01466f69d10832f5c93c3ab05b15534710caacef7fd3af9205e23e3b191261eab110a9b642bce89d09adfb081fae317fe438d4
+Homepage: https://www.twitter.com/J3nRa1n
+Description: Join the dark side
+Tag: compatible_min::ios5.1, compatible_max::ios13.3
+Name: Dark Matter
+Depiction: https://repo.twickd.com/package/com.twickd.j3nra1n.dark-matter
+SileoDepiction: https://repo.twickd.com/package/com.twickd.j3nra1n.dark-matter/native
+ModernDepiction:
+Icon:
+Author: J3nRa1n <tiffgu3.0@gmail.com>
+
+Package: com.twickd.jannikcrack.roundeddock-lite
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: JannikCrack <jannikcrack@aol.com>
+Installed-Size: 576
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), org.thebigboss.libcolorpicker
+Filename: ./debians/com.twickd.jannikcrack.roundeddock-lite_0.0.1_iphoneos-arm.deb
+Size: 300296
+MD5sum: 516f9c3352a3f9c4a505cf9c9507f24d
+SHA1: ae43dd3bf0e98dfc9ee94f5b14fb3959f1aa3552
+SHA256: 16c1cfd6fe527583c01abe4286c776dbed01565554959d2afc6f8264136d235e
+SHA512: 01d33f24d4d65cede4378376bb2a0331b4d24f59ebe82a579e816dfb995e345199b6a2f540a044f4380c8d1957e9a751cf861410f7b1a9479959926217b310c6
+Description: An awesome MobileSubstrate tweak!
+Tag: compatible_min::ios12.2, compatible_max::ios13.3
+Name: RoundedDock lite
+Author: JannikCrack <jannikcrack@aol.com>
+Depiction: https://repo.twickd.com/package/com.twickd.jannikcrack.roundeddock-lite
+SileoDepiction: https://repo.twickd.com/package/com.twickd.jannikcrack.roundeddock-lite/native
+
+Package: com.twickd.joyux.saige-dark
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: JoyUX_ <joydesignicons@gmail.com>
+Filename: ./debians/com.twickd.joyux.saige-dark_1.0_iphoneos-arm.deb
+Size: 5520284
+MD5sum: d204069d08ebbd0786f8e1d48a3313a9
+SHA1: 750ca715e68d553b6ceeacd184c541624e32701b
+SHA256: 796876029a4fcda26849d2c8ba6252c050dc980625597b7c49829b8713a516c3
+SHA512: 1bbed4680c52443a3b8ccabb44e1c8b7c63aa54637ad56faadc4259543d58ac20f85fd03ecef133d2f56af7099b2cae73c0ce22c8eae1b81fb176279e2a51061
+Description: Dark Side of Saige.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios14.5
+Name: Saige Dark
+Author: JoyUX_ <joydesignicons@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.joyux.saige-dark
+SileoDepiction: https://repo.twickd.com/package/com.twickd.joyux.saige-dark/native
+
+Package: com.twickd.kelvin-j-ferreiras.styx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Kelvin J. Ferreiras <jferreiras297@gmail.com>
+Depends: com.spark.snowboard
+Filename: ./debians/com.twickd.kelvin-j-ferreiras.styx_1.0_iphoneos-arm.deb
+Size: 191272
+MD5sum: 6ff716e88f8bb5cc9f63133b71582014
+SHA1: f6809416f8c68c82ddaa83a3bdc87c45a42ce0de
+SHA256: c7eba7f7714c6421296a251893a289e7ecabc69a52261216dcc2a68823cad38b
+SHA512: 34499c85c5e369fba1ea0f591e3763685b75a53c25e8c1ad3e7d9562b10eda586106064d272fd4e303ddab0a625bdbf721fd13b7564bb79244c75b617d4e71e6
+Description: The most beautiful badges ever Author: Styx <ferreiraskelvi@gmail.com>
+Tag: compatible_min::ios7.0, compatible_max::ios13.3
+Name: Styx
+Depiction: https://repo.twickd.com/package/com.twickd.kelvin-j-ferreiras.styx
+SileoDepiction: https://repo.twickd.com/package/com.twickd.kelvin-j-ferreiras.styx/native
+Author: Kelvin J. Ferreiras <jferreiras297@gmail.com>
+
+Package: com.twickd.kiddoduc.darktypeos
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: kiddoduc <jens.klanjac@elev.ga.pysslingen.se>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.twickd.kiddoduc.darktypeos_1.0_iphoneos-arm.deb
+Size: 8681736
+MD5sum: 93c6491667d55c117c0ae21548dbf41c
+SHA1: 0ce12df0ec099e371ad1e99af6c15c000622bbd0
+SHA256: fbd32270c5a0caa4e8daff3765cef0242f1fd21971600ef1bb9e6937b48be0f9
+SHA512: 81e753b7394ea2323b860fe6336a746b89d262132384efded738f868a1cce0bb74c85554ecb52f0ce113354db215d68e61ef60952ad09048be69dfab2d144951
+Description: A flat dark version of LogoTypeOS!;
+Name: DarkTypeOS
+Author: kiddoduc <jens.klanjac@elev.ga.pysslingen.se>
+
+Package: com.twickd.krishna-gonuguntla.vertikons
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes
+Maintainer: Krishna Gonuguntla <daredevil.gkc@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.twickd.krishna-gonuguntla.vertikons_1.0_iphoneos-arm.deb
+Size: 28314104
+MD5sum: f2395479e0de2ef8c23dd9205970b254
+SHA1: 093ee2be5f4583c83597b4ad4af27eefcc850582
+SHA256: 1df3cad960f457fc988561f7ed153b1b8dab81b100e438e99e912d78913457a6
+SHA512: b17a50f4d788b2d4537f9cba394ebaa58b5a7c2f47d7fcc2fbbaeb2d1aec51985cd2930a18c012d9870cd90151fcad8f6f8358edbb126299ffedbe31af6ebfea
+Description: A theme with vertical icons!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios10.0, compatible_max::ios13.4
+Name: Vertikons
+Author: Krishna Gonuguntla <daredevil.gkc@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.krishna-gonuguntla.vertikons
+SileoDepiction: https://repo.twickd.com/package/com.twickd.krishna-gonuguntla.vertikons/native
+
+Package: com.twickd.liven.basicdockhider
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: LIVEN <ulucqs@gmail.com>
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debians/com.twickd.liven.basicdockhider_1.1.1_iphoneos-arm.deb
+Size: 131832
+MD5sum: d3eb72679b567486bc2333ba63b8c3a3
+SHA1: a09c8419563eaad9761da6a822d340dd2b55888c
+SHA256: 374330f2f302467bfaf9edeea31de3c285028734a993ca14c8895f86216aaefe
+SHA512: 3c796805bb88dd8367bb84942ec47ca0eaa42a9267aae178d51ac01b698561138ff0251b9cc6b4bd4af1e61c9dc7342101f38dfc60ca1239bc18cf49c5d6e3b6
+Description: Hide the dock background or change its opacity!
+Tag: compatible_min::ios13.0, compatible_max::ios13.6
+Name: BasicDockHider
+Author: LIVEN <ulucqs@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.liven.basicdockhider
+SileoDepiction: https://repo.twickd.com/package/com.twickd.liven.basicdockhider/native
+
+Package: com.twickd.mostafa.statusbar-mix-twickd
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: Tweaks
+Maintainer: Mostafa89 <anoo99mostafa89@gmail.com>
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/com.twickd.mostafa.statusbar-mix-twickd_1.3.2_iphoneos-arm.deb
+Size: 150016
+MD5sum: 817729d53de56bc5d174b9e19a674f33
+SHA1: fc4cb83e3ee88b109f5009a937b5bea1d68c7ef4
+SHA256: 52af835c3e06808a53b9e49176d0c9322b0bbf6a15fd801dd57f5098c70d9c3d
+SHA512: c8a51e61ae3c83a36af30ecdbc61a2d01b0a81bd3681a13d8b31b07f6b9a25d134bc6fd3ec98e435075cf5c9031bf0c8cf9e3357e6bbf9bbd650fbb2a494100e
+Description: Colorize your statusbar icons any color you want
+Tag: purpose::extension, cydia::commercial, compatible_min::ios10.0, compatible_max::ios14.5
+Name: Statusbar Mix (Twickd)
+Author: Mostafa89 <anoo99mostafa89@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.mostafa.statusbar-mix-twickd
+SileoDepiction: https://repo.twickd.com/package/com.twickd.mostafa.statusbar-mix-twickd/native
+
+Package: com.twickd.mtac.astrid
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: MTAC <mtactheming@gmail.com>
+Installed-Size: 4344
+Depends: mobilesubstrate, ws.hbang.common, com.spark.libsparkcolourpicker, firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./debians/com.twickd.mtac.astrid_1.2_iphoneos-arm.deb
+Size: 1587532
+MD5sum: a72c5e1309c02f15458f1b8a2caed7bd
+SHA1: 80d5157100172021a6390a4abf457ba5507bb01c
+SHA256: abcbbe0f75056b767f60a5d70c009e8ccc780c805c43cf41f5ae44fc3e0e51c1
+SHA512: 8ce2468fe635d25714d4d15aabedb10aa1c9668c3e031dbb7336cc8d4d6e55f3c10ea990679b15c5216f439330fa68dc522d6a17d3acb9470ad1451dab7f47ec
+Description: Stellar multitasking
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.6
+Name: Astrid
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.mtac.astrid
+SileoDepiction: https://repo.twickd.com/package/com.twickd.mtac.astrid/native
+
+Package: com.twickd.mtac.lynx-2
+Architecture: iphoneos-arm
+Version: 2.0.9
+Section: Tweaks
+Maintainer: MTAC <mtactheming@gmail.com>
+Installed-Size: 3216
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader (>= 2.2.3), ws.hbang.common
+Filename: ./debians/com.twickd.mtac.lynx-2_2.0.9_iphoneos-arm.deb
+Size: 1226352
+MD5sum: 7cfddda156a62fa255ab4f518284c59a
+SHA1: e6a8d00bab0c429c7cf7de138ee490e0368eb5d6
+SHA256: 4fe3d6e75a1602e954e6582f71c10343e33af657c7ef23d03dec822e21e5944c
+SHA512: dfdc8fb5eccc6e3ca3f2f3f7bba1281f638e8ce45941a5c0aaeadfa874acfae8e103e3004cdfff008ce7bec6e9f612b75fabf125ff22b7d5d57e6babe2edae3c
+Description: Ultimate iDevice Customization for iOS 14+
+Tag: purpose::extension, cydia::commercial, compatible_min::ios14.0, compatible_max::ios14.5
+Name: Lynx 2
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.mtac.lynx-2
+SileoDepiction: https://repo.twickd.com/package/com.twickd.mtac.lynx-2/native
+
+Package: com.twickd.mtac.lynx-2
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: MTAC <mtactheming@gmail.com>
+Installed-Size: 3220
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader (>= 2.2.3), ws.hbang.common
+Filename: ./debians/com.twickd.mtac.lynx-2_2.1_iphoneos-arm.deb
+Size: 1225032
+MD5sum: 1e247e19eade3bc132df07aa008737cd
+SHA1: 57fceab5d0edc96392c68a2dde61bb3c3c6c36d3
+SHA256: 7ffd3a0695c350b69f8a4a5320ae601e00271206b9f96a9c25e7b68a1cf0575c
+SHA512: 6e87f9fdda6f105a2d97943d69c3394cfa51aa83d21c939c07cd0922ea10c0122d5fb58ed0b2f72b4f37954923b15c48ab209c3b298f246382f6114bea9bd26c
+Description: Ultimate iDevice Customization for iOS 14+
+Tag: purpose::extension, cydia::commercial, compatible_min::ios14.0, compatible_max::ios14.5
+Name: Lynx 2
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.mtac.lynx-2
+SileoDepiction: https://repo.twickd.com/package/com.twickd.mtac.lynx-2/native
+
+Package: com.twickd.nicho1asdev.bigsurcenter
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: nicho1asdev <nicholasmusumeci@icloud.com>
+Installed-Size: 1568
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.6), ws.hbang.alderis (>= 1.1)
+Filename: ./debians/com.twickd.nicho1asdev.bigsurcenter_1.1.3_iphoneos-arm.deb
+Size: 731820
+MD5sum: 7db1f7be8a1658a5965e07f44848a8ab
+SHA1: 7e5e0be252d99c97d2a52f74e86679a77efe5d28
+SHA256: b14000913e7a534141b0bf1a317197ada99ea7d50128f3a0751fc42d684dba5a
+SHA512: 2b2519ce77c6eb89af097faa123a1d0fed279f7ee13fb233df43f669a6dae90b6f616ba4adf52abf1fd17957dd99567fd10c06aa8e280e3ef95a54e768919262
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the new control center in MacOS Big Sur.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios14.5
+Name: BigSurCenter
+Author: nicho1asdev <nicholasmusumeci@icloud.com>
+Depiction: https://repo.twickd.com/package/com.twickd.nicho1asdev.bigsurcenter
+SileoDepiction: https://repo.twickd.com/package/com.twickd.nicho1asdev.bigsurcenter/native
+
+Package: com.twickd.nicho1asdev.dyadic
+Architecture: iphoneos-arm
+Version: 2.1.2
+Section: Tweaks
+Maintainer: nicho1asdev <nicholasmusumeci@icloud.com>
+Installed-Size: 1856
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader
+Filename: ./debians/com.twickd.nicho1asdev.dyadic_2.1.2_iphoneos-arm.deb
+Size: 1383600
+MD5sum: a481ac7deb793f81c9dbbd928e65f2e0
+SHA1: 28f32a2d9d16cef26e0e3375e0bab99547476a3b
+SHA256: 33dc2485dd07dfb68ae34efa3a4b1d41a29cb410a0f905295a1ef581817855c9
+SHA512: bab6f1c562ee36abc485acdbb02de9dad25dadb887513661e1898da7a9650067e348d99e136f79292cfdcac028c40c2e79ae0d6b7f3123300e4b0e69bd115410
+Description: Combine the today page with the control center with new gestures to open the control center. @itsnicho1as on Twitter!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios12.0, compatible_max::ios14.5
+Name: Dyadic
+Author: nicho1asdev <nicholasmusumeci@icloud.com>
+Icon: file:///Library/PreferenceBundles/DyadicPrefs.bundle/icon@2x.png
+Depiction: https://repo.twickd.com/package/com.twickd.nicho1asdev.dyadic
+SileoDepiction: https://repo.twickd.com/package/com.twickd.nicho1asdev.dyadic/native
+
+Package: com.twickd.ninika.bright
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Themes
+Maintainer: Ninika <ninikasambo@gmail.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.twickd.ninika.bright_2.0_iphoneos-arm.deb
+Size: 18062732
+MD5sum: 0040cfdbe3771c0b6cc49030fa16e0f5
+SHA1: f8a73f7367342cfae41915d8155697b3b81b7193
+SHA256: 1ed6403e7b5525fb518743a47564e65d117f2f818e6bade599126be4215631fc
+SHA512: 6f20cb94839041e6c06f2fc2cf8a3b61506462ca773be810eec846d8e995ffbf48042b91ad6a1030dac396429ea57b8d2e662a08bc5b063650df915d253a9601
+Description: Shine on Brgiht or Dark - You choose!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios13.6
+Name: Bright
+Author: Ninika <ninikasambo@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.ninika.bright
+SileoDepiction: https://repo.twickd.com/package/com.twickd.ninika.bright/native
+
+Package: com.twickd.one4studio.athena-dark
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Themes
+Maintainer: One4Studio <vuk@one4studio.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.twickd.one4studio.athena-dark_1.2.3_iphoneos-arm.deb
+Size: 6035940
+MD5sum: ec877833f9d0e91df500bedae6d71b00
+SHA1: 2ffd54fd4ffe928b64bf8b67613f23c7edc95f97
+SHA256: 559378a30f11c8487c4e0c8095347f4da8efb0a2aa181e3268d22de492f5fa6a
+SHA512: 9a3bbd5ad4c8166925308bbe451289e3d0e86a75be653075b51b73c38e0504ba235b6f54ed772f5db8115c8db6a9fc45127e81b5ee864c30a9afeccc675fae62
+Description: Beatufil Dark icons!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios13.6.1
+Name: Athena Dark
+Author: One4Studio <vuk@one4studio.com>
+Depiction: https://repo.twickd.com/package/com.twickd.one4studio.athena-dark
+SileoDepiction: https://repo.twickd.com/package/com.twickd.one4studio.athena-dark/native
+
+Package: com.twickd.one4studio.athena
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Themes
+Maintainer: One4Studio <vuk@one4studio.com>
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.twickd.one4studio.athena_1.2.2_iphoneos-arm.deb
+Size: 6822576
+MD5sum: b8587a5c0f3a4130d746a8fe49b68b45
+SHA1: f67c3c62012dad64328604594e912c2d64bbd120
+SHA256: 952937eb6790e6e312a73b19f15c903e1ad4206f1f5cc4d9dd9bfe442881893a
+SHA512: 93669ac54379144d19734db8fc2c4312afcc2528cd9a8bbdd8c4f0af2235bc9f3f311359fd0e2bae874961f4ef1bcf2c27018b4df5762a626e9268b29d0f6ef7
+Description: Beatufil gradient icons!
+Tag: purpose::extension, cydia::commercial, compatible_min::ios7.0, compatible_max::ios13.6.1
+Name: Athena
+Author: One4Studio <vuk@one4studio.com>
+Depiction: https://repo.twickd.com/package/com.twickd.one4studio.athena
+SileoDepiction: https://repo.twickd.com/package/com.twickd.one4studio.athena/native
+
+Package: com.twickd.ray-delvalle.justauismitchth3me
+Architecture: iphoneos-arm
+Version: 2
+Section: Themes
+Maintainer: Ray Delvalle <raydelvalle@me.com>
+Conflicts: com.julioverne.cydown,com.julioverne.cracktool4,com.julioverne.cracktool3,com.cydia.kiimo.cracktool4,com.hackyouriphone.ill-Lighted13
+Filename: ./debians/com.twickd.ray-delvalle.justauismitchth3me_2_iphoneos-arm.deb
+Size: 73924
+MD5sum: 2210e0a9559c8eef0d53ea230b5ea8bc
+SHA1: 6cf72c1fe904d89c03212e749e46baaed81cc4b2
+SHA256: 479ded3bc853b5bc5b4cb0599d5cfe0b5ee2c5c291e1de925ad90c35ee5ab693
+SHA512: b5c61fd43731f49638309e198f9de1f29fe4fb4a5b053f73e4fc265c94cc0ec111d99a293ac9012b2379802ea17fe6fcf658346a731a22b692a19413e0cbc9f8
+Description: For those who love UISwitches. this is for y'all.
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios14.5
+Name: justAUISmitchTh3me
+Author: Ray Delvalle <raydelvalle@me.com>
+Depiction: https://repo.twickd.com/package/com.twickd.ray-delvalle.justauismitchth3me
+SileoDepiction: https://repo.twickd.com/package/com.twickd.ray-delvalle.justauismitchth3me/native
+
+Package: com.twickd.southerngirlwhocode.electrifying
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: SouthernGirlWhoCode <southerngirlwhocode@gmail.com>
+Installed-Size: 5096
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
+Filename: ./debians/com.twickd.southerngirlwhocode.electrifying_1.1_iphoneos-arm.deb
+Size: 3170096
+MD5sum: 1b56c9dd651a7233e0038468345fdb4e
+SHA1: 0b775ebebaa5f23395a587650898f858d62785ea
+SHA256: 4c8702b0ba5dae61750fa815582c8c0c85155b64f06bfff56175324dcc041789
+SHA512: c3c8fb66d06420996f1ac508e724fdd4a27ee69e0fe6b1ddc8fc830b8844b5a79cfe201b4f2bb7f9eaf72022fd5bfff063b83256482c16e8af689f61d07c428b
+Description: Redesigned low battery alert and MagSafe charging animation on lockscreen/springboard
+Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.7
+Name: Electrifying
+Author: SouthernGirlWhoCode <southerngirlwhocode@gmail.com>
+Depiction: https://repo.twickd.com/package/com.twickd.southerngirlwhocode.electrifying
+SileoDepiction: https://repo.twickd.com/package/com.twickd.southerngirlwhocode.electrifying/native
+
+Package: com.twickd.tacitus
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Hugo
+Installed-Size: 900
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.1), preferenceloader, com.spark.libsparkapplist, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker
+Filename: ./debians/com.twickd.tacitus_1.2.1_iphoneos-arm.deb
+Size: 475290
+MD5sum: 6b016fa598f4d815cf27013258b02169
+SHA1: b28c08cc57a4d00f6398131ef8acad7b9779f706
+SHA256: 9f8bcd441fe0ee484731940981a4c9445e337a286b83166b7e82584775b8bc7b
+SHA512: 00fd2fc88a981f1ed32fdb3390d14c9eeb922a21297ed30cd28391fa5e77df6dde03f82cdec386c201b215cc59c72b3af9a52548b0a669dca1350a429804a12b
+Description: The New Bluetooth Connecting Experience
+Tag: purpose::extension, cydia::commercial, compatible_min::ios11.1, compatible_max::ios12.1.2
+Name: Tacitus
+Author: Hugo
+Depiction: https://repo.twickd.com/package/com.twickd.tacitus
+SileoDepiction: https://repo.twickd.com/package/com.twickd.tacitus/sileo
+
+Package: com.twickd.tyler.customlock-2
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Tyler <tyler.norman@shaw.ca>
+Depends: mobilesubstrate, firmware (>=11.0), ws.hbang.common (>=1.14)
+Filename: ./debians/com.twickd.tyler.customlock-2_1.1.1_iphoneos-arm.deb
+Size: 90576
+MD5sum: a05df9b01458fc3eefe4c7c5d4fd71cf
+SHA1: 91ea4df3c619d590a5800c98e4506f026a6a0eed
+SHA256: 2e701c35d030ec4f89cb274a22809e1e40ed8c4f396d0f92bcea987c44dff3e5
+SHA512: c777cf554ae892bd59ee0718e93c6f9c498184db24ab412e2b6b36c9b559332e480063aab45a0019f21a99adcd6bc4791bbb88c30185c524a0111c055130cf2e
+Description: Customize Your Lock Screen!
+Name: CustomLock 2
+Author: Tyler <tyler.norman@shaw.ca>
+
+Package: com.twickd.xabdooox.infinity-colors
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Themes
+Maintainer: XaBdOooX <eabdooo@gmail.com>
+Filename: ./debians/com.twickd.xabdooox.infinity-colors_2.0_iphoneos-arm.deb
+Size: 40919548
+MD5sum: 244ff3c3ec365865d55297dfe92d7321
+SHA1: bc16c2b46801931ddf6558b17323e309afbfe534
+SHA256: 2927eba722a77e71245838231c0e40922079657da62a7e66fc338cf02dc050e7
+SHA512: 304b456d22da8d12b4a7855345b0bde00dfa08bd53eeba801b7682e4a041ecf510947fbed864064a171ab6306f5bd2d6a8f1b2c1e978163450391b23e3aa67db
+Description: New Colors with Infinity ∞ ;)
+Tag: purpose::extension, cydia::commercial, compatible_min::ios10.0, compatible_max::ios14.2
+Name: Infinity Colors
+Author: XaBdOooX <eabdooo@gmail.com>
+Icon: file:///Library/Themes/Infinity-Cyan/icon.png
+Depiction: https://repo.twickd.com/package/com.twickd.xabdooox.infinity-colors
+SileoDepiction: https://repo.twickd.com/package/com.twickd.xabdooox.infinity-colors/native
+
+Package: com.twickd.yudark.abansis-colors
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Themes
+Maintainer: YuDark <dakers_02@me.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debians/com.twickd.yudark.abansis-colors_1.2_iphoneos-arm.deb
+Size: 7475972
+MD5sum: 01bba12591a0473de5b0fb8ed00214e7
+SHA1: ac885d31f6cc004edd583739fe1b728d9cfd1133
+SHA256: 156d35f791e5f7073fb1531f9666b7ae981b36fca0e4010985171734dc982155
+SHA512: 5b0a73304c9b00413b890b11e1eb13391f6fb721017bd367ad6cdbd2a49db158297be0ba357e51561da5269d601598060cc0a5ce6ea5caf29e4c8c1de09bb5d4
+Description: Dark theme for iOS
+Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios13.6
+Name: Abansis Colors
+Author: YuDark <dakers_02@me.com>
+Depiction: https://repo.twickd.com/package/com.twickd.yudark.abansis-colors
+SileoDepiction: https://repo.twickd.com/package/com.twickd.yudark.abansis-colors/native
+
+Package: com.walkerbagley.buble
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Themes
+Maintainer: Walker Bagley
+Filename: ./debians/com.walkerbagley.buble_1.3_iphoneos-arm.deb
+Size: 6080046
+MD5sum: b129d484d5ae5025eb5329ebc74f1696
+SHA1: 27d35b1fe74eac52bb9fb7d2da08043e0872bab5
+SHA256: 031171d549f02335f62036e0e5f94e210067827167da084c154f0590cbaa9485
+SHA512: ee6cc09622afaa075062f8c3abda7ac842a2b53c9e45bad405a673043c77d0cffbb488e5f17e3c559a661b8d8dfb5e45e717151269eb8e98c8de62841233702a
+Description: A modern gradient theme with beautiful glassy icons and colorful backgrounds!
+Name: Bublé
+Author: Walker Bagley
+
+Package: jp.akusio.kernbypass-unofficial
+Architecture: iphoneos-arm
+Version: 0.0.5
+Section: System
+Maintainer: ichitaso
+Installed-Size: 920
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Filename: ./debians/jp.akusio.kernbypass-unofficial_0.0.5_iphoneos-arm.deb
+Size: 144922
+MD5sum: 88664e2a63933c4ba6c58a13936d4299
+SHA1: d2eed190bf07e978ec7e78c4f3ae5c39729a91f2
+SHA256: 8ee495c8fff663df9ddeb562b595bd8438fcc86a3a5e83fcbe0bfbf9a6a14f6b
+SHA512: 065c1e9a5bbe16fc7d6c744771124bd8ed924256879800b282f041e9644a1b5a24abe4946a1c7d71fedd61cfce53a1725afdcc4f8d57ed5a71793bb425756b6b
+Homepage: https://ichitaso.com
+Description: kernel level jailbreak detection bypass.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: akusio
+Name: KernBypass (Unofficial)
+Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
+dev: akusio, Misty, ichitaso, XsF1re
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+
+Package: kr.xsf1re.vnodebypass
+Architecture: iphoneos-arm
+Version: 0.2.4
+Section: System
+Maintainer: XsF1re
+Installed-Size: 212
+Filename: ./debians/kr.xsf1re.vnodebypass_0.2.4_iphoneos-arm.deb
+Size: 23814
+MD5sum: def4d68465c86493771c58c5e19d4a26
+SHA1: 8209be4a423d056dbd5fece3005dc760d10c90d6
+SHA256: 9d10e5b9b81301f96fccf28ae3678931345581ccffd75adaf80b72d0fc578b64
+SHA512: 7277ace0fc04211103f256d118afb18d75e0cc13ae696f2b973355d96556ce61f4a4bd0bf19fe84c74068ffda86f7e4789e4624c658048baf4b28c5971ab5d69
+Description: An expermental tool to hide jailbreak files for bypass detection.
+Tag: role::hacker
+Name: vnodebypass
+Author: XsF1re
+
+Package: libkrw-dev
+Architecture: iphoneos-arm
+Version: 1.1.0
+Priority: optional
+Section: Development
+Maintainer: Siguza
+Depends: libkrw
+Filename: ./debians/libkrw-dev_1.1.0_iphoneos-arm.deb
+Size: 2924
+MD5sum: ec27e4486e25ab1246377c722f7b294a
+SHA1: b87013063cd199a48be13c7d8fcd0c4d5842d63e
+SHA256: 17fbab84f79d0f1d859591a50c8872b93d2075ee583d1ffae9f071d5c59d2320
+SHA512: 0b83a8f7c285729097cf72cc3a54184eb414ea63075ea2cea456494e79eb848ce982a71a31f7f1fb1ae6d4a116fc5278cddff15e97b6b622bdfca5d4edd6d6c1
+Homepage: https://github.com/Siguza/libkrw/
+Description: libkrw headers
+Name: libkrw-dev
+Author: Siguza
+
+Package: libkrw
+Architecture: iphoneos-arm
+Version: 1.1.0
+Priority: optional
+Section: Development
+Maintainer: Siguza
+Filename: ./debians/libkrw_1.1.0_iphoneos-arm.deb
+Size: 6876
+MD5sum: 87fa0816699693abd129ee07e7592ddd
+SHA1: 2630eea27e2cde0adb4bd163f8693b3be5863c97
+SHA256: f86a22a7145928e6b9568116a71303c340c9f2f607b69b77c55358e0dd41016f
+SHA512: 100b96e29aea6e774fb05611d89da0fa3b6987ada5232dfb9e169ada85c116ad0721eee8702513ca04bdea91a725e7e7b29f4d88201aa0456439b6bcd1747b1e
+Homepage: https://github.com/Siguza/libkrw/
+Description: Nice kernel r/w API
+Name: libkrw
+Author: Siguza
+
